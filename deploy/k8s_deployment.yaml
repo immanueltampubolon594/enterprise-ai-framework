@@ -1,0 +1,5 @@
+# Framework Enterprise Module: k8s_deployment.yaml
+
+class EnterpriseModule:
+    def __init__(self):
+        pass

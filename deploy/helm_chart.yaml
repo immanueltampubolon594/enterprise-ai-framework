@@ -1,0 +1,5 @@
+# Framework Enterprise Module: helm_chart.yaml
+
+class EnterpriseModule:
+    def __init__(self):
+        pass
